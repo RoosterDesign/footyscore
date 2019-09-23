@@ -1,0 +1,26 @@
+{
+  "name": "footyscore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoosterDesign/footyscore.git"
+  },
+  "author": "Neil Dewing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoosterDesign/footyscore/issues"
+  },
+  "homepage": "https://github.com/RoosterDesign/footyscore#readme",
+  "dependencies": {
+    "next": "^9.0.6",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
