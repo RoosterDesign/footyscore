@@ -8,19 +8,20 @@
     "build": "next build",
     "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RoosterDesign/footyscore.git"
-  },
+  "keywords": [],
   "author": "Neil Dewing",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RoosterDesign/footyscore/issues"
-  },
-  "homepage": "https://github.com/RoosterDesign/footyscore#readme",
   "dependencies": {
     "next": "^9.0.6",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.4.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "eslint-plugin-react": "^7.14.3",
+    "prettier": "^1.18.2"
   }
 }
